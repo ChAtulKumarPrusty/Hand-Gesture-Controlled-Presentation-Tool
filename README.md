@@ -27,7 +27,7 @@ Make sure you have the following installed:
 
 - Python 3.7+
 - [OpenCV](https://pypi.org/project/opencv-python/)
-- [cvzone]
+- cvzone
 - [NumPy](https://pypi.org/project/numpy/)
 - [comtypes](https://pypi.org/project/comtypes/)
 - Microsoft PowerPoint (Installed on Windows)
@@ -36,7 +36,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/Hand-Gesture-Controlled-Presentation-Tool.git
+git clone https://github.com/ChAtulKumarPrusty/Hand-Gesture-Controlled-Presentation-Tool.git
 cd hand-gesture-presentation
 
 Install the required packages:
